@@ -13,6 +13,9 @@ MediCareAI addresses key challenges in healthcare accessibility, affordability, 
 ## Website
 Visit our website: [MediCareAI](https://dashing-cucurucho-c22be8.netlify.app)
 
+## Database
+<img width="740" alt="Screenshot 2025-02-14 at 11 21 48 PM" src="https://github.com/user-attachments/assets/2b0e94a7-3ecc-4d8c-889c-939657b6f299" />
+
 ## Features
 
 ### Dashboard
